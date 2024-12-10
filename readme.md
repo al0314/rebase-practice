@@ -1,1 +1,1 @@
-Hello user!
+This is git project for completion of Git assignment-2 for this course.This project has two feature branch with main branch. "feature-1" and "feature-2". We aregoing to merge these two feature branches then delete them from both repository.
